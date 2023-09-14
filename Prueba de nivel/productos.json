@@ -1,0 +1,12 @@
+[
+    {
+        "nombre":"Casa normal",
+        "precio":"32",
+        "metros": "400"
+    },
+    {
+        "nombre":"Piso en Madrid",
+        "precio":"1000",
+        "metros":"10"
+    }
+]
